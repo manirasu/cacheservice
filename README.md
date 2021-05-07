@@ -33,7 +33,7 @@ mvn package
 
 output:
 =======
-It will generate <Jsontoxml.jar> jar file in System.getProperty("user.dir")/target directory.
+It will generate <cacheservice.jar> jar file in System.getProperty("user.dir")/target directory.
 
 
 Example :

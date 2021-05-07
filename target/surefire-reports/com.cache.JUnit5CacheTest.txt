@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.cache.JUnit5CacheTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 56.59 s <<< FAILURE! - in com.cache.JUnit5CacheTest
+testEvictionBasedOnGlobalTimeOut  Time elapsed: 25.014 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Pass ==> expected: <0> but was: <5>
+	at com.cache.JUnit5CacheTest.testEvictionBasedOnGlobalTimeOut(JUnit5CacheTest.java:155)
+
+testPutWithTTL  Time elapsed: 20.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Pass ==> expected: <0> but was: <1>
+	at com.cache.JUnit5CacheTest.testPutWithTTL(JUnit5CacheTest.java:36)
+

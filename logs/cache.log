@@ -1,0 +1,70 @@
+05-06-2021 22:29:48 INFO   [main                     ] CacheService         - cache.globalTTL :5000000
+05-06-2021 22:29:48 INFO   [main                     ] CacheService         - cache.maxcachesize :5
+05-06-2021 22:29:48 INFO   [pool-1-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-06-2021 22:29:48 INFO   [pool-1-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:29:48 INFO   [pool-1-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:29:48 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:29:48 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:29:58 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:29:58 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:29:58 INFO   [pool-2-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-06-2021 22:29:58 INFO   [pool-2-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:29:58 INFO   [pool-2-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:30:18 INFO   [pool-2-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-06-2021 22:30:18 INFO   [pool-2-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:30:18 INFO   [pool-2-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:30:23 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-06-2021 22:30:23 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-06-2021 22:30:23 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:30:23 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:30:38 INFO   [pool-2-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-06-2021 22:30:38 INFO   [pool-2-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:30:38 INFO   [pool-2-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-06-2021 22:30:43 INFO   [main                     ] DataStore            - To remove key :M from cache map
+05-06-2021 22:30:43 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-06-2021 22:30:43 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 11:12:38 INFO   [main                     ] CacheService         - cache.globalTTL :5000000
+05-07-2021 11:12:38 INFO   [main                     ] CacheService         - cache.maxcachesize :5
+05-07-2021 11:12:38 INFO   [pool-1-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-07-2021 11:12:38 INFO   [pool-1-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 11:12:38 INFO   [pool-1-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 11:12:38 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 11:12:38 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 11:12:38 INFO   [pool-2-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-07-2021 11:12:38 INFO   [pool-2-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 11:12:38 INFO   [pool-2-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 11:12:58 INFO   [pool-2-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-07-2021 11:12:58 INFO   [pool-2-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 11:12:58 INFO   [pool-2-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:04:44 INFO   [main                     ] CacheService         - cache.globalTTL :5000000
+05-07-2021 12:04:44 INFO   [main                     ] CacheService         - cache.maxcachesize :500000000
+05-07-2021 12:04:44 INFO   [pool-1-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-07-2021 12:04:44 INFO   [pool-1-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:04:44 INFO   [pool-1-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:04:44 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:04:44 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:04:54 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:04:54 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:05:19 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-07-2021 12:05:19 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-07-2021 12:05:19 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:05:19 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:05:39 INFO   [main                     ] DataStore            - To remove key :M from cache map
+05-07-2021 12:05:39 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:05:39 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:07:02 INFO   [main                     ] CacheService         - cache.globalTTL :5000000
+05-07-2021 12:07:02 INFO   [main                     ] CacheService         - cache.maxcachesize :500000000
+05-07-2021 12:07:02 INFO   [pool-1-thread-1          ] GlobalTTL            - Invoking Global TTL run method
+05-07-2021 12:07:02 INFO   [pool-1-thread-1          ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:07:02 INFO   [pool-1-thread-1          ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:07:02 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:07:02 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:07:12 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:07:12 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:07:37 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-07-2021 12:07:37 INFO   [main                     ] DataStore            - cache map reached maximum heap size:: 10
+05-07-2021 12:07:37 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:07:37 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
+05-07-2021 12:07:57 INFO   [main                     ] DataStore            - To remove key :M from cache map
+05-07-2021 12:07:57 INFO   [main                     ] CacheService         - Invoking clear cache method from Global TTL scheduler
+05-07-2021 12:07:57 INFO   [main                     ] CacheService         - Cleared data store Map and time stamp key list 
